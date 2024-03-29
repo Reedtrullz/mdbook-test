@@ -21,4 +21,4 @@ Below are known front-ends for THORChain.  Wallet support, THORChain features, a
 | Unizen           | Web                 | https://www.unizen.io/                                  |
 | XDEFI Wallet     | Browser Ext         | https://www.xdefi.io/                                   |
 
-{{#include LINKREFS.md}}
+{{#include ../LINKREFS.md}}
