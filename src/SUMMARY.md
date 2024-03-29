@@ -15,14 +15,13 @@
   - [I need to track a swap](#i-need-to-track-a-swap)
   - [I need to track a withdrawal from LP or Savers/Earn](#i-need-to-track-a-withdrawal-from-lp-or-saversearn)
   - [I need to track a loan repayment](#i-need-to-track-a-loan-repayment)
-- THORChain
+- [THORChain](thorchain/index.md)
   - [Dust threshold chart](thorchain/dust-threshold-chart.md)
   - [Gas chart for dummies](thorchain/gas-chart-for-dummies.md)
   - [Manual loan repayment](thorchain/manual-loan-repayment.md)
   - [Savers/Earn memoless withdrawal](thorchain/saversearn-memoless-withdrawal.md)
   - [Front-ends](thorchain/front-ends.md)
-- THORSwap with Ledger
-  - [General](ledger/general.md)
+- [THORSwap with Ledger](ledger/index.md)
   - [Incorrect asset quantity](ledger/incorrect-asset-quantity.md)
   - [Deposit Savers](ledger/deposit-savers.md)
   - [Withdraw Savers](ledger/withdraw-savers.md)
