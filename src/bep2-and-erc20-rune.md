@@ -1,5 +1,6 @@
 # BEP2 and ERC20 RUNE
 
+## BEP2
 
 **As of February 10th 2024, two (2) exchanges [Bybit] and [Coinlocally] are no longer accepting BEP2 RUNE deposits.  It is unknown whether or not such deposits will be restored.  As of this writing there are no known ways to convert BEP2 RUNE into native RUNE or another asset.**
 
@@ -14,8 +15,10 @@ Here are some links covering the history and evidence of the deprecation:
 * Example of THORChain Dev Discord announcement (screenshot): https://t.me/thorchain_org/610927
 * Official statement from THORSwap circa March 2024 (screnshot): https://ibb.co/8jYMkP0
 
-For ERC20 RUNE: sell the ERC20 RUNE on any Ethereum DEX for whatever you can get for it.
+## ERC20
 
-{{#include LINKREFS.md}}
+Swap or sell the ERC20 RUNE on any Ethereum DEX for whatever you can get for it.  Uniswap is one such DEX.
+
 [upgrading to native rune]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f
 [1]: https://medium.com/thorchain/thorchain-q2-23-ecosystem-report-c1f4d6a4c3fb
+{{#include LINKREFS.md}}
