@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [BEP2 and ERC20 RUNE](#bep2-and-erc20-rune)
+- [BEP2 and ERC20 RUNE](bep2-and-erc20-rune.md)
 - [LPs and Earn/Savers](#lps-and-earnsavers)
   - [Do memoless Earn/Savers actions use streaming swaps?](#do-memoless-earnsavers-actions-use-streaming-swaps)
   - [How can I track my LP or Earn/Savers earnings?](#how-can-i-track-my-lp-or-earnsavers-earnings)
