@@ -1,0 +1,6 @@
+[book]
+authors = ["koitsu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Title of Book"
