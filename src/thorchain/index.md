@@ -1,3 +1,3 @@
 # THORChain
 
-{{#include LINKREFS.md}
+{{#include LINKREFS.md}}

@@ -1,3 +1,3 @@
 # Ledger
 
-{{#include LINKREFS.md}
+{{#include LINKREFS.md}}
