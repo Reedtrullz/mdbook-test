@@ -11,7 +11,7 @@ When paying off a loan on THORChain, as of this writing (2023/12/29), it's commo
 1. In the upper right corner of THORSwap: **Cog wheel > Pro Mode Settings > Show Send Custom Tx > Enable**
 1. In the menu on the left, click **Wallet > Send** and then **enable** the **Toggle custom MsgDeposit form** option
 1. You must now manually create the memo string of the transaction.  This should be `LOAN-:collateral_asset:loan_address`
-   - Refer to [official THORChain memo documentation][memo repay] for the **Repay Loan** memo syntax itself
+   - Refer to [official THORChain memo documentation][1] for the **Repay Loan** memo syntax itself
    - **Do not** specify a MINOUT parameter!
 1. Select the source asset you want to use to pay off the loan, and the amount.  Things to note:
    - Gas/transaction fees will come of out of the sender's wallet and **is not** part of the "amount to send"
@@ -42,4 +42,5 @@ The friend then does the following:
 1. Waits a few minutes then checks the transaction on RuneScan: it says "Success" and "Repay"
 1. Waits a few more minutes, then follows the [Tracking a withdrawal](tracking-a-withdrawal.md) procedure.  He finds that the ETH collateral is in the THORChain scheduled queue (to be processed in 55 minutes).  Nothing more to do but wait!
 
+[1]: https://dev.thorchain.org/concepts/memos.html#repay-loan
 {{#include ../LINKREFS.md}}

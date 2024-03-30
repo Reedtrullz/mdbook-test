@@ -1,6 +1,11 @@
 # Savers/Earn memoless withdrawal
 
-If you have a Savers/Earn position you wish to withdraw and are unable to use a THORChain front-end (e.g. THORSwap), you can try a [memoless withdrawal].  This little-known feature of THORChain allows you to issue a withdrawal by sending a small (yet very specific) amount to a special THORChain wallet address.  No need for THORSwap or any other front-end.
+If you have a Savers/Earn position you wish to withdraw and are unable to use a
+THORChain front-end (e.g. THORSwap), you can try a [memoless withdrawal].
+
+This little-known feature of THORChain allows you to issue a withdrawal by
+sending a small (yet very specific) amount to a special THORChain wallet
+address.  No need for THORSwap or any other front-end.
 
 **The below procedure withdraws 100% of your Savers/Earn position.  Please read the procedure and the below chart _before_ performing any actions!**
 
@@ -25,4 +30,5 @@ If you have a Savers/Earn position you wish to withdraw and are unable to use a 
 | USDC (ERC20)     | ETH           | 0.0001 ETH                 |
 | USDT (ERC20)     | ETH           | 0.0001 ETH                 |
 
+[1]: https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics
 {{#include ../LINKREFS.md}}

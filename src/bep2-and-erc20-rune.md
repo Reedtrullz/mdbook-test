@@ -14,13 +14,16 @@ Swap or sell the ERC20 RUNE on any Ethereum DEX for whatever you can get for it.
 
 Here are some links covering the history and evidence of the deprecation:
 
-- Why BEP2 and ERC20 RUNE were deprecated: [THORChain University - Upgrading to Native RUNE][upgrading to native rune]
+- Why BEP2 and ERC20 RUNE were deprecated: [THORChain University - Upgrading to Native RUNE][2]
 - Upgrade timeline: https://t.me/thorchain_org/610874
 - Example of THORChain Twitter/X announcement: https://t.me/thorchain_org/610902
 - Example of THORChain Telegram announcement: https://t.me/thorchain_org/476777
 - Example of THORChain Dev Discord announcement (screenshot): https://t.me/thorchain_org/610927
 - Official statement from THORSwap circa March 2024 (screnshot): https://ibb.co/8jYMkP0
 
-[upgrading to native rune]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f
+[Bybit]: https://www.bybit.com/
+[Coinlocally]: https://coinlocally.com/
+[KillSwitch]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f#7829
 [1]: https://medium.com/thorchain/thorchain-q2-23-ecosystem-report-c1f4d6a4c3fb
+[2]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f
 {{#include LINKREFS.md}}
