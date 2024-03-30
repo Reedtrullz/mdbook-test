@@ -6,6 +6,8 @@ These instructions can be used for any of the following scenarios:
 - Withdrawing from Savers/Earn
 - Closing a loan
 
+## Procedure
+
 1. Visit the [9R THORChain Tracker]
 1. Search the web page for the **last 4 digits of your destination wallet address** using your browser (Ctrl-F or Command-F)
    - "Wallet address" in this context means the address to which the funds are being **sent to** (or **withdrawn to**)

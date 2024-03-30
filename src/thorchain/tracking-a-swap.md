@@ -1,5 +1,7 @@
 # Tracking a swap
 
+## Procedure
+
 1. Find the Transaction Hash/ID of your THORSwap activity: click the Transaction History button in the upper right of THORSwap and then choose View Details
    - If you still can't find your Transaction Hash/ID: try using [RuneScan] to search for your wallet address (either source or destination wallet) and find your transaction.  Once you find it, click on it and there should be an icon to copy the Transaction Hash/ID
 1. Visit the [9R THORChain Tracker]
