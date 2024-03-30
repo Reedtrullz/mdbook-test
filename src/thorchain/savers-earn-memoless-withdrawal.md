@@ -10,7 +10,7 @@ address.  No need for THORSwap or any other front-end.
 **The below procedure withdraws 100% of your Savers/Earn position.  Please read the procedure and the below chart _before_ performing any actions!**
 
 1. Make sure whatever wallet you're using has the wallet address which opened the Savers/Earn position.  **This is super important!**
-1. Visit https://thornode.ninerealms.com/thorchain/inbound_addresses and search for the THORNode chain name associated with your Savers/Earn asset (see below chart).
+1. Visit <https://thornode.ninerealms.com/thorchain/inbound_addresses> and search for the THORNode chain name associated with your Savers/Earn asset (see below chart).
 1. Extract the `address` field from the structure.  **This is the destination address you'll be sending a small amount to.**
    - The `address` field will change depending on which THORNode server you hit (it's random).  What's important is that you do the above 2 steps **every single time you want to do a memoless withdrawal**.  The addresses change regularly; sending funds to a deprecated/expired address will result in the loss of those funds.
 1. In your wallet, send the required amount (see below) to the address obtained in the previous step.
