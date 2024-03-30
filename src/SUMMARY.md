@@ -22,7 +22,6 @@
   - [Savers/Earn memoless withdrawal](thorchain/savers-earn-memoless-withdrawal.md)
   - [Front-ends](thorchain/front-ends.md)
 - [THORSwap with Ledger](ledger/index.md)
-  - [Incorrect asset quantity](ledger/incorrect-asset-quantity.md)
   - [Swapping assets](ledger/swapping-assets.md)
   - [Deposit Savers](ledger/deposit-savers.md)
   - [Withdraw Savers](ledger/withdraw-savers.md)
