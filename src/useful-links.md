@@ -9,6 +9,7 @@
 - [THORCharts]
 - [THORSwap]
 - [THORSwap Community Forum]
+- [THORSwap Feedback]
 - [THORYield]
 - [THORYield Transaction Tracker]
 - THORChain node information
@@ -27,9 +28,13 @@
   - [THORChain Medium]
   - [THORChain University Medium]
   - [THORSwap Medium]
-- Discords
+- Chats
   - [THORChain Developer Discord] &mdash; **warning: dev chat only!**
   - [THORSwap Discord]
+  - [THORSwap Telegram]
+- Social media
+  - [THORChain Twitter]
+  - [THORSwap Twitter]
 
 [9R Dashboards]: https://dashboards.ninerealms.com/
 [9R THORChain Ops]: https://ops.ninerealms.com/
@@ -46,6 +51,7 @@
 [THORChain Network]: https://thorchain.network/nodes/
 [THORChain Network Explorer]: https://thorchain.net/dashboard
 [THORChain University Medium]: https://crypto-university.medium.com/
+[THORChain Twitter]: https://twitter.com/THORChain
 [THORCharts]: https://thorcharts.org/
 [THORNode]: https://thornode.network/
 [THORNode v1 Docs]: https://thornode-v1.ninerealms.com/thorchain/doc
@@ -54,6 +60,9 @@
 [THORSwap Medium]: https://thorswap.medium.com/
 [THORSwap Discord]: https://discord.gg/ST2hfVB5
 [THORSwap Docs]: https://docs.thorswap.finance/
+[THORSwap Feedback]: https://thorswap.canny.io/
 [THORSwap SwapKit Docs]: https://docs.thorswap.finance/swapkit-docs
+[THORSwap Telegram]: https://t.me/thorswap_ann
+[THORSwap Twitter]: https://twitter.com/thorswap
 [THORYield]: https://thoryield.com/
 [THORYield Transaction Tracker]: https://app.thoryield.com/tx_tracker
