@@ -1,4 +1,4 @@
-# THORChain gas chart for dummies
+# Gas chart for dummies
 
 | Details                       | Gas required        | Required wallet connection    |
 | ----------------------------- | ------------------- | ----------------------------- |

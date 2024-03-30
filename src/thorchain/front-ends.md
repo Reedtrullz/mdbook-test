@@ -1,4 +1,4 @@
-# THORChain front-ends
+# Front-ends
 
 Below are known front-ends for THORChain.  Wallet support, THORChain features, and region limits may vary per front-end.  DYOR.
 
