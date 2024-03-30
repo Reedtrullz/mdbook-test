@@ -2,6 +2,8 @@
 
 When paying off a loan on THORChain, as of this writing (2023/12/29), it's common that there is price movement during the transaction.  This can/will result in a very small amount of debt remaining (usually in US cents).  This section describes how you can pay off the remaining part of the loan by manually creating a THORChain memo using the MsgDeposit feature.
 
+## Procedure
+
 1. Get the collateral address associated with the loan
 1. Look up details of the loan using the [Midgard API][midgard api v2] using the collateral address: `https://midgard.ninerealms.com/v2/borrower/YOUR_WALLET_ADDRESS`
    - In the above link, replace `YOUR_WALLET_ADDRESS` with the address with which you deposited collateral
@@ -18,7 +20,7 @@ When paying off a loan on THORChain, as of this writing (2023/12/29), it's commo
 1. The repayment transaction should be in progress.  In the THORSwap Transaction History UI (upper right of the site), you can click on the link button to be taken to RuneScan and watch the repayment transaction in real-time.  It will take several minutes, but RuneScan should eventually show "Success" for a "Repay" transaction.
 1. Once the repayment is successful, THORChain will begin the process of sending the colleteral back to the original address which opened the loan.  This is (usually) an outbound transaction and thus subject to THORChain outbound delays.  Refer to [How to track a transaction] to find the outbound transaction and get its ETA.
 
-Here's an example scenario:
+## Example scenario
 
 - An individual opened a loan for some BTC, providing collateral in ETH
 - The Ethereum ETH address associated with the loan is `0x123abcd`
@@ -38,6 +40,6 @@ The friend then does the following:
    - A total of 1.03 RUNE will taken from their wallet: 1.01 for the loan repayment, and 0.02 for transaction fees/gas
    - The $0.56 worth of RUNE "in excess" will be tracked as a credit for collateral address `0x123abcd` (for future loans)
 1. Waits a few minutes then checks the transaction on RuneScan: it says "Success" and "Repay"
-1. Waits a few more minutes, then follows the [How to track a transaction](#how-to-track-a-transaction) procedure.  He finds that the ETH collateral is in the THORChain scheduled queue (to be processed in 55 minutes).  Nothing more to do but wait!
+1. Waits a few more minutes, then follows the [Tracking a withdrawal](tracking-a-withdrawal.md) procedure.  He finds that the ETH collateral is in the THORChain scheduled queue (to be processed in 55 minutes).  Nothing more to do but wait!
 
 {{#include ../LINKREFS.md}}
