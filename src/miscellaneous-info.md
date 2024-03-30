@@ -1,13 +1,8 @@
 # Miscellaneous info
 
-## THORChain
-
-- For Bitcoin (BTC): THORChain only supports Native Segwit and legacy Segwit addresses.  **Taproot IS NOT supported!  Use of a Taproot address will result in loss of funds!**
-- Repaying a loan (Lending/Borrow) can sometimes leave a small amount left on the loan, making it difficult to close the loan given THORChain's minimum transaction sizes.  To work around this problem, try repaying the loan using an asset which can get you the granularity you need to close the loan.  BNB (BEP20/BSC), DOGE, and RUNE tend to be good choices (granular and cheaper gas).
-
 ## THORSwap
 
-- For Bitcoin (BTC): THORSwap only supports Native Segwit and legacy Segwit addresses.  **Taproot IS NOT supported!  Use of a Taproot address will result in loss of funds!**
+- THORSwap only supports Native Segwit and legacy Segwit Bitcoin (BTC) addresses.  **Taproot IS NOT supported!  Use of a Taproot address will result in loss of funds!**
 - Due to DDoS attacks and abuse on THORSwap and 9Realms infrastructures during late 2023, rate-limits were applied to ensure service reliability.  However, these limits can occasionally cause problems for users, such as having their IP address temporarily blocked for 1 hour.  If you encounter this, you may want to switch to using a VPN (i.e. get a new IP address) to see if things work.  However, be sure to read the next item.
 - Some third-party APIs that THORSwap relies on block VPNs or block certain geographic regions.  Sadly, THORSwap has no direct control over these stipulations.  This can cause various problems that are not immediately obvious to users of THORSwap.  This can sometimes manifest as the website not loading, wallet connections failing (especially for WalletConnect), wallet balances being wrong, or other oddities.
 - Try to avoid using the **Max** button when doing transactions.  **Max** does literally what it says, which means some transactions might fail because you might not have enough for gas.  It's recommended that you decreasing the asset quantity by a small amount to give some "breathing room".  Yes, this will leave you with some dust, but it greatly increases the odds of successful transactions.
