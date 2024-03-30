@@ -1,10 +1,15 @@
 # Ledger
 
-## Installing the THORChain Ledger app
+## Installing and using the THORChain Ledger app
 
 1. [Follow Ledger's official documentation][1]
 1. At the **Pending Ledger review** screen, press **both buttons** on your Ledger
-   - Failure to do this will cause your Ledger to be unable to connect to THORSwap!
+1. Connect your Ledger to THORSwap or whatever front-end supports Ledger and THORChain
+
+<div class="warning">
+Failure to press both buttons at the **Pending Ledger review** screen this will cause
+your Ledger to be unable to connect!
+</div>
 
 ## Failed Ethereum transactions
 
