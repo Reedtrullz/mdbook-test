@@ -5,4 +5,4 @@
 - Some third-party APIs that THORSwap relies on block VPNs or block certain geographic regions.  Sadly, THORSwap has no direct control over these stipulations.  This can cause various problems that are not immediately obvious to users of THORSwap.  This can sometimes manifest as the website not loading, wallet connections failing (especially for WalletConnect), wallet balances being wrong, or other oddities.
 - Try to avoid using the **Max** button when doing transactions.  **Max** does literally what it says, which means some transactions might fail because you might not have enough for gas.  It's recommended that you decreasing the asset quantity by a small amount to give some "breathing room".  Yes, this will leave you with some dust, but it greatly increases the odds of successful transactions.
 
-{{#include LINKREFS.md}}
+{{#include ../LINKREFS.md}}
