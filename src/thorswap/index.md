@@ -1,6 +1,4 @@
-# Miscellaneous info
-
-## THORSwap
+# THORSwap
 
 - THORSwap only supports Native Segwit and legacy Segwit Bitcoin (BTC) addresses.  **Taproot IS NOT supported!  Use of a Taproot address will result in loss of funds!**
 - Due to DDoS attacks and abuse on THORSwap and 9Realms infrastructures during late 2023, rate-limits were applied to ensure service reliability.  However, these limits can occasionally cause problems for users, such as having their IP address temporarily blocked for 1 hour.  If you encounter this, you may want to switch to using a VPN (i.e. get a new IP address) to see if things work.  However, be sure to read the next item.

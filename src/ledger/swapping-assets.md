@@ -23,7 +23,7 @@ feature of THORSwap, and in the case of Ledger, can save users a lot of pain.
 1. Attach your Ledger to your USB port (if not already)
 1. On your Ledger, run the relevant application for the chain asset X is on.  (See below notes too)
 1. Launch your web browser (Chrome and Brave confirmed working)
-1. Visit the [THORSwap app][thorswap app]
+1. Visit the [THORSwap app]
 1. Click the "Connect" button in the upper right
 1. Under **Hardware Wallets**, select **Ledger**
 1. In the **Select chains** menu on the left, select the chain asset X is on
