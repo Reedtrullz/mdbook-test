@@ -33,5 +33,3 @@
 | Ethereum             | USDC (ERC20) | ETH         |
 | Litecoin             | LTC          | LTC         |
 | THORChain            | Any synth    | RUNE        |
-
-{{#include ../LINKREFS.md}}

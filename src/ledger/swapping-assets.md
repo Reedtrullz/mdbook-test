@@ -39,4 +39,3 @@ feature of THORSwap, and in the case of Ledger, can save users a lot of pain.
 1. Click Swap
 
 [1]: https://support.ledger.com/hc/en-us/articles/12168993164957-How-to-swap-crypto-using-THORSwap?docs=true
-{{#include ../LINKREFS.md}}

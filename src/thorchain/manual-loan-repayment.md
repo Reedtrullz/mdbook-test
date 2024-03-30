@@ -17,7 +17,7 @@ When paying off a loan on THORChain, as of this writing (2023/12/29), it's commo
    - Gas/transaction fees will come of out of the sender's wallet and **is not** part of the "amount to send"
    - If the amount sent is in excess of the debt, the difference will be treated as a "credit" (associated with the collateral address)
 1. Click **Send**
-1. The repayment transaction should be in progress.  In the THORSwap Transaction History UI (upper right of the site), you can click on the link button to be taken to RuneScan and watch the repayment transaction in real-time.  It will take several minutes, but RuneScan should eventually show "Success" for a "Repay" transaction.
+1. The repayment transaction should be in progress.  In the THORSwap Transaction History UI (upper right of the site), you can click on the link button to be taken to [RuneScan] and watch the repayment transaction in real-time.  It will take several minutes, but [RuneScan] should eventually show "Success" for a "Repay" transaction.
 1. Once the repayment is successful, THORChain will begin the process of sending the colleteral back to the original address which opened the loan.  This is (usually) an outbound transaction and thus subject to THORChain outbound delays.  Refer to [How to track a transaction] to find the outbound transaction and get its ETA.
 
 ## Example scenario
@@ -39,8 +39,8 @@ The friend then does the following:
 1. Clicks Send
    - A total of 1.03 RUNE will taken from their wallet: 1.01 for the loan repayment, and 0.02 for transaction fees/gas
    - The $0.56 worth of RUNE "in excess" will be tracked as a credit for collateral address `0x123abcd` (for future loans)
-1. Waits a few minutes then checks the transaction on RuneScan: it says "Success" and "Repay"
+1. Waits a few minutes then checks the transaction on [RuneScan]: it says "Success" and "Repay"
 1. Waits a few more minutes, then follows the [Tracking a withdrawal](tracking-a-withdrawal.md) procedure.  He finds that the ETH collateral is in the THORChain scheduled queue (to be processed in 55 minutes).  Nothing more to do but wait!
 
 [1]: https://dev.thorchain.org/concepts/memos.html#repay-loan
-{{#include ../LINKREFS.md}}
+[RuneScan]: https://runescan.io/

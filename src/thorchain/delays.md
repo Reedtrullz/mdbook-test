@@ -36,5 +36,3 @@ fault of THORChain.
 [1]: https://docs.thorchain.org/frequently-asked-questions#what-is-outbound-throttling
 [2]: https://crypto-university.medium.com/under-the-hood-thorchain-transaction-delays-250d00ed57b7#9534
 [3]: https://gitlab.com/thorchain/thornode/-/issues/1723
-
-{{#include ../LINKREFS.md}}

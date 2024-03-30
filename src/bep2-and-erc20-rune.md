@@ -26,4 +26,3 @@ Here are some links covering the history and evidence of the deprecation:
 [KillSwitch]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f#7829
 [1]: https://medium.com/thorchain/thorchain-q2-23-ecosystem-report-c1f4d6a4c3fb
 [2]: https://medium.com/thorchain/upgrading-to-native-rune-a9d48e0bf40f
-{{#include LINKREFS.md}}

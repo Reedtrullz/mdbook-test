@@ -21,4 +21,4 @@
 If you're still having problems, ask for help in the THORSwap Discord channel `#thorswap-general` where THORSwap community moderators can help.  If you prefer official THORSwap staff support which is one-on-one and private, open a ticket in the `#support-desk` channel and be patient.
 
 [1]: https://crypto-university.medium.com/under-the-hood-thorchain-transaction-delays-250d00ed57b7#f667
-{{#include ../LINKREFS.md}}
+[RuneScan]: https://runescan.io/

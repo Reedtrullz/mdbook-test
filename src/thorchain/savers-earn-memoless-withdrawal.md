@@ -31,4 +31,3 @@ address.  No need for THORSwap or any other front-end.
 | USDT (ERC20)     | ETH           | 0.0001 ETH                 |
 
 [1]: https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics
-{{#include ../LINKREFS.md}}

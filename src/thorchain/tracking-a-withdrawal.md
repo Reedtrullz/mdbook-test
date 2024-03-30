@@ -23,4 +23,4 @@ These instructions can be used for any of the following scenarios:
 If you are still not able to find your transaction, ask for help in the THORSwap Discord channel `#lp-and-earn` where THORSwap community moderators can help.  If you prefer official THORSwap staff support which is one-on-one and private, open a ticket in the `#support-desk` channel and be patient.
 
 [1]: https://docs.thorchain.org/thornodes/overview#churning
-{{#include ../LINKREFS.md}}
+[Blockchair]: https://blockchair.com/

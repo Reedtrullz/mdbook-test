@@ -16,4 +16,3 @@ Note: ETH and AVAX have a 10 gwei threshold due to those chains using 1e-18, whi
 As of November 2023, the [original source][1] for these values is incorrect and outdated.
 
 [1]: https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics
-{{#include ../LINKREFS.md}}
