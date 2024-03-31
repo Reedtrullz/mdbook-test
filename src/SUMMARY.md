@@ -1,17 +1,8 @@
 # Table of Contents
 
 - [Introduction](index.md)
+- [General Q&A](general-qa.md)
 - [BEP2 and ERC20 RUNE](bep2-and-erc20-rune.md)
-- [LPs and Earn/Savers](#lps-and-earnsavers)
-  - [Do memoless Earn/Savers actions use streaming swaps?](#do-memoless-earnsavers-actions-use-streaming-swaps)
-  - [How can I track my LP or Earn/Savers earnings?](#how-can-i-track-my-lp-or-earnsavers-earnings)
-  - [I just opened my LP or Earn/Savers and it's not showing up in THORYield!](#i-just-opened-my-lp-or-earnsavers-and-its-not-showing-up-in-thoryield)
-  - [If I deposit an asset asymmetrically in an LP, and I expect the opposite asset to gain in value, will I end up with more of the asset I deposited?](#if-i-deposit-an-asset-asymmetrically-in-an-lp-and-i-expect-the-opposite-asset-to-gain-in-value-will-i-end-up-with-more-of-the-asset-i-deposited)
-  - [Is the APR percentage on THORSwap/THORYield real (e.g. 500%)?](#is-the-apr-percentage-on-thorswapthoryield-real-eg-500)
-  - [Is the negative APR I see correct? How can that be?](#is-the-negative-apr-i-see-correct--how-can-that-be)
-  - [What are the risks associated with Earn/Savers?](#what-are-the-risks-associated-with-earnsavers)
-  - [What are the risks associated with LPs?](#what-are-the-risks-associated-with-lps)
-  - [Where can I see APR performance over time?]()
 - [THORChain](thorchain/index.md)
   - [Delays](thorchain/delays.md)
   - [Tracking a swap](thorchain/tracking-a-swap.md)
