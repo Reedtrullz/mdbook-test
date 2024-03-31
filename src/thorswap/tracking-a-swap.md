@@ -31,7 +31,7 @@ If you're unsure which provider was used for your swap, start with Chainflip.
 If you still can't find your transaction, then it's possible the transaction is still waiting for
 [inbound confirmations][1] on the THORChain network.  We sometimes call this the "inbound leg".
 
-Checking inbound confirmation is a little complicated and technical.  Here's how to do it:
+Checking inbound confirmations is a little complicated and technical.  Here's how to do it:
 
 1. Visit `https://thornode.ninerealms.com/thorchain/tx/status/YOUR_TRANSACTION_HASH` in your browser
    - Replace `YOUR_TRANSACTION_HASH` with the Transaction Hash/ID from the earlier procedure
