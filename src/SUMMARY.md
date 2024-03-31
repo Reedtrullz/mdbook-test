@@ -10,7 +10,7 @@
   - [Dust threshold chart](thorchain/dust-threshold-chart.md)
   - [Gas chart for dummies](thorchain/gas-chart-for-dummies.md)
   - [Manual loan repayment](thorchain/manual-loan-repayment.md)
-  - [Savers/Earn memoless withdrawal](thorchain/savers-earn-memoless-withdrawal.md)
+  - [Savers/Earn memoless withdrawal](thorchain/savers-memoless-withdrawal.md)
   - [Front-ends](thorchain/front-ends.md)
 - [THORSwap](thorswap/index.md)
 - [THORSwap with Ledger](ledger/index.md)
