@@ -1,6 +1,26 @@
 # Tracking a swap
 
-## Procedure
+Historically, swaps were exclusively done through THORChain.  However, in early
+March 2024, [THORSwap introduced Chainflip][2] as a secondary liquidity
+protocol for swaps.
+
+How to track a swap depends on which provider was used.
+
+As of this writing (2024/03/30), Chainflip-based swaps do not show up in the
+THORSwap Transaction History UI (users will be shown a blank page, or a page
+with a never-ending spinner).
+
+If you're unsure which provider was used for your swap, start with Chainflip.
+
+## Chainflip procedure
+
+1. Visit the [Chainflip swap tracker]
+1. Scroll down the page until you find the **Search by swap ID or destination address** search box
+1. Enter your **destination wallet address**.  For example, if you swapped BTC into ETH, you would enter your Ethereum wallet address
+1. If your swap was done through Chainflip, you should be show details of your swap, as well as a progress indicator
+1. If your swap is not found, try following the THORChain procedure below
+
+## THORChain procedure
 
 1. Find the Transaction Hash/ID of your THORSwap activity: click the Transaction History button in the upper right of THORSwap and then choose View Details
    - If you still can't find your Transaction Hash/ID: try using [RuneScan] to search for your wallet address (either source or destination wallet) and find your transaction.  Once you find it, click on it and there should be an icon to copy the Transaction Hash/ID
@@ -24,4 +44,6 @@ prefer official THORSwap staff support which is one-on-one and private, open a
 ticket in the `#support-desk` channel and be patient.
 
 [1]: https://crypto-university.medium.com/under-the-hood-thorchain-transaction-delays-250d00ed57b7#f667
+[2]: https://thorswap.medium.com/cross-chain-made-easy-thorswap-integrates-chainflip-liquidity-network-3894d24db1b8
+[Chainflip swap tracker]: https://scan.chainflip.io/swaps
 [RuneScan]: https://runescan.io/
