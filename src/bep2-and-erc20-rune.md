@@ -11,10 +11,12 @@ THORSwap also effectively removed support for both, including the
 
 ## BEP2
 
-**As of February 10th 2024, two (2) exchanges [Bybit] and [Coinlocally] are no
+As of February 10th 2024, two (2) exchanges [Bybit] and [Coinlocally] are no
 longer accepting BEP2 RUNE deposits.  It is unknown whether or not such
-deposits will be restored.  As of this writing there are no known ways to
-convert BEP2 RUNE into native RUNE or another asset.**
+deposits will be restored.
+
+As of this writing there are no known ways to convert BEP2 RUNE into native
+RUNE or another asset.
 
 ## ERC20
 
