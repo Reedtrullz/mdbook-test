@@ -12,12 +12,11 @@
 | BNB             | 0 nbnb            | 0 BNB           |
 
 <div class="warning">
-ETH and AVAX have a 10 gwei threshold due to those chains using 1e-18,
-while THORChain only honours 1e-8.
+ETH and AVAX have a 10 gwei threshold due to those chains using 1e18
+granularity.  However, THORChain only supports up to 1e8 granularity.
 </div>
 <div class="warning">
-As of November 2023, the [original source][1] for these values is
-incorrect and outdated.
+As of November 2023, the
+<a href="https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics">original source</a>
+for these values is incorrect and outdated.
 </div>
-
-[1]: https://dev.thorchain.org/saving-guide/quickstart-guide.html#basic-mechanics
