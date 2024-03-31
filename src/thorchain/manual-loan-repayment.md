@@ -1,6 +1,10 @@
 # Manual loan repayment
 
-When paying off a loan on THORChain, as of this writing (2023/12/29), it's common that there is price movement during the transaction.  This can/will result in a very small amount of debt remaining (usually in US cents).  This section describes how you can pay off the remaining part of the loan by manually creating a THORChain memo using the MsgDeposit feature.
+When paying off a loan on THORChain, as of this writing (2023/12/29), it's
+common that there is price movement during the transaction.  This can/will
+result in a very small amount of debt remaining (usually in US cents).  This
+section describes how you can pay off the remaining part of the loan by
+manually creating a THORChain memo using the MsgDeposit feature.
 
 ## Procedure
 

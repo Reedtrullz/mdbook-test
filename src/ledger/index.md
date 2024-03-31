@@ -13,13 +13,21 @@ Ledger connection to fail!
 
 ## Failed Ethereum transactions
 
-Some users have had success in enabling Blind Signing inside of the Ethereum app on their Ledger.
+Some users have had success in enabling Blind Signing inside of the Ethereum
+app on their Ledger.
 
-In the Ethereum app, choose Settings -> Blind Signing, then press both buttons to change it to Enabled.
+In the Ethereum app, choose Settings &rarr; Blind Signing, then press both
+buttons to change it to Enabled.
 
 ## Incorrect asset quantity
 
-Ledger, especially with UTXO-based chains (ex. BTC, DOGE, etc.), tends to "spread" funds across multiple indexes<sup>†</sup> on your Ledger.  Ledger Live is able to aggregate all the assets/quantities into one lump sum.  This is indirectly described in the official Ledger document titled [Understanding Crypto Addresses and Derivation Paths][2].  However, THORSwap cannot do this -- it can only see one index at a time (default index 0).  Here's an example:
+Ledger, especially with UTXO-based chains (ex. BTC, DOGE, etc.), tends to
+"spread" funds across multiple indexes<sup>†</sup> on your Ledger.  Ledger Live
+is able to aggregate all the assets/quantities into one lump sum.  This is
+indirectly described in the official Ledger document titled
+[Understanding Crypto Addresses and Derivation Paths][2].
+However, THORSwap cannot do this -- it can only see one index at a time
+(default index 0).  Here's an example:
 
 - Pretend your Ledger Live says you have 1.2 BTC total
 - Index 0 = address bc1abcd (holds 1 BTC)

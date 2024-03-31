@@ -12,20 +12,16 @@ updated properly (if at all).  This leads to users panicking, thinking
 something has gone wrong, followed by claims that "their transaction is stuck".
 
 Most of the time (~98%) the transaction is not "stuck", but rather subject to
-THORChain's
-[outbound throttling][1]
-security mechanism.
+THORChain's [outbound throttling][1] security mechanism.
 
 **This security mechanism can delay the "outbound" portion of the transaction
 up to 1 hour.**
 
 For more information on the security mechanism, refer to
-[this THORChain University article][2]
-which covers some other scenarios.
+[this THORChain University article][2] which covers some other scenarios.
 
-In mid-January 2024, THORChain implemented
-[swapper clout][3]
-to help ease some of the burdeons of said mechanism.
+In mid-January 2024, THORChain implemented [swapper clout][3] to help ease some
+of the burdeons of said mechanism.
 
 Additionally, blockchain validators (miners) can sometimes take a while to
 verify transactions.  For example, on the BTC blockchain, there have been times

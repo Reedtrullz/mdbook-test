@@ -84,7 +84,8 @@ The risks are mostly the same as what's covered in the
 "What are the risks associated with Earn/Savers?"
 section, with some additions:
 
-- [THORChain University - Impermanent Loss][6] &mdash; please note Impermanent Loss Protection was [officially sunset][7] in December 2023
+- [THORChain University - Impermanent Loss][6]
+  - Please note Impermanent Loss Protection was [officially sunset][7] in December 2023
 - [THORChain University - Synth Leveraging 101][8]
 - [THORChain University - Synth Leveraging 201][9]
 

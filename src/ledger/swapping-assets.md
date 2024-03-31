@@ -8,14 +8,16 @@ Follow Ledger's official [How to swap crypto using THORSwap][1] procedure.
 
 ## Use THORSwap directly
 
-The biggest complication with Ledger devices stems from the fact that only one app can be run at a time.
-When trying to swap from assets X to Y, THORSwap normally prefers the chains of both assets X and Y be
-connected at once.  X is mandatory, while having Y attached just makes THORSwap auto-populate the
+The biggest complication with Ledger devices stems from the fact that only one
+app can be run at a time.  When trying to swap from assets X to Y, THORSwap
+normally prefers the chains of both assets X and Y be connected at once.  X is
+mandatory, while having Y attached just makes THORSwap auto-populate the
 **Recipient Address** field.
 
-A little-known feature of THORSwap is that you can actually do a swap from asset X to Y with only chain X
-atttached **as long as you know the wallet address of Y.**  This method uses the **Custom Recipient Address**
-feature of THORSwap, and in the case of Ledger, can save users a lot of pain.
+A little-known feature of THORSwap is that you can actually do a swap from
+asset X to Y with only chain X atttached **as long as you know the wallet
+address of Y.**  This method uses the **Custom Recipient Address** feature of
+THORSwap, and in the case of Ledger, can save users a lot of pain.
 
 1. Ensure Ledger Live is not running or in the system tray; if so, exit it
 1. Find the wallet address of asset Y (i.e. destination asset); save it/copy it somewhere

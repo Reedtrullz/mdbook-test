@@ -20,7 +20,10 @@ These instructions can be used for any of the following scenarios:
    - Use a blockchain explorer for that blockchain network and search for your destination wallet address.  A good starter is [Blockchair] but it depends on the blockchain!
    - You should eventually be able to find the deposit or receive transaction into your wallet.  Every wallet has different confirmation count requirements, so when the asset will arrive in your wallet now depends on validators (miners) on that blockchain
 
-If you are still not able to find your transaction, ask for help in the THORSwap Discord channel `#lp-and-earn` where THORSwap community moderators can help.  If you prefer official THORSwap staff support which is one-on-one and private, open a ticket in the `#support-desk` channel and be patient.
+If you are still not able to find your transaction, ask for help in the
+THORSwap Discord channel `#lp-and-earn` where THORSwap community moderators can
+help.  If you prefer official THORSwap staff support which is one-on-one and
+private, open a ticket in the `#support-desk` channel and be patient.
 
 [1]: https://docs.thorchain.org/thornodes/overview#churning
 [Blockchair]: https://blockchair.com/
